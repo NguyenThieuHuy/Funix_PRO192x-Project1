@@ -2,7 +2,6 @@ import java.util.*;
 /**
  * LuckyNumber
  */
-
 public class LuckyNumber {
     //Counter
     static int counterGuesses;
